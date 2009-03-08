@@ -1,0 +1,16 @@
+## Interface: 30000
+## Title: |cffff0000o|rUF_|cff336633Smee|rGrid
+## Author: Smee
+## Version: 0.1
+## Notes: oUF layout.
+## OptionalDeps: oUF_PowerSpark, oUF_Banzai, oUF_Smooth, oUF_CombatFeedback, oUF_HealComm
+## RequiredDeps: oUF, oUF_Tags
+## DefaultState: enabled
+## X-oUF_SmeeGrid: oUF_SmeeGrid
+
+settings.lua
+
+party-template.xml
+raid-template.xml
+
+oUF_SmeeGrid.lua
